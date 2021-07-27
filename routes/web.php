@@ -28,13 +28,7 @@ Route::group(['middleware' => ['sessionCheck']], function () {
 
     //----------------------------Admin Check start here-----------------------------------------------
     Route::group(['middleware' => ['adminCheck']], function () {
-        Route::get('/dashbord', "loginController@dashbord")->name("user.dashbord");
-        Route::get('/dashbord/userList', "userController@userList")->name("user.user_list");
-        Route::get('/dashbord/userServices', "userController@userServices")->name("user.services");
-       
-        Route::get('/dashbord/pendingUser', "userController@pendingUser")->name("user.pending_user");
-        Route::get('/dashbord/unblockUser', "userController@unblockUser")->name("user.unblock_user");
-        Route::get('/dashbord/clientReq', "userController@clientReq")->name("user.client_req");
+        
         Route::get('/dashbord/profile', "userController@profile")->name("user.profile");
         Route::get('/dashbord/editProfile', "userController@editProfile")->name("user.edit_profile");
         Route::get('/profile/editProfile', "userController@editProfile")->name("user.edit__profile");
