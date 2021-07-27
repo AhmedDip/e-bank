@@ -14,26 +14,15 @@ This is an E-Banking system where I have developed a full front-end and back-end
 
 ![Screenshot (462)](https://user-images.githubusercontent.com/67531074/127200104-4ea7c113-8313-4897-89dc-8ab0745ee051.png)
 ![Screenshot (463)](https://user-images.githubusercontent.com/67531074/127200113-9d54cde6-4542-4550-aaca-a6f07e7a1e10.png)
-
-![Screenshot (470)](https://user-images.githubusercontent.com/67531074/127200075-4690283b-d2cc-4336-876d-4bb2796d6d94.png)
-
-![Screenshot (471)](https://user-images.githubusercontent.com/67531074/127200083-9dfceec5-fc5a-4156-80fc-4d8b90c44223.png)
-
-![Screenshot (475)](https://user-images.githubusercontent.com/67531074/127200091-a66d007a-867a-474f-b91e-758e31ebca82.png)
-![Screenshot (476)](https://user-images.githubusercontent.com/67531074/127200102-b2131659-9886-431c-86dc-2f7890955cb3.png)
 ![Screenshot (465)](https://user-images.githubusercontent.com/67531074/127200125-8d4a6113-8ed7-464d-a931-d88ff6589e8e.png)
 ![Screenshot (466)](https://user-images.githubusercontent.com/67531074/127200140-1d2c3a31-c901-47e3-9867-2867ca2bc3d2.png)
 ![Screenshot (467)](https://user-images.githubusercontent.com/67531074/127200147-97a51512-0b1f-4ede-bd4d-607bf3a2a0c3.png)
+![Screenshot (470)](https://user-images.githubusercontent.com/67531074/127200075-4690283b-d2cc-4336-876d-4bb2796d6d94.png)
+![Screenshot (471)](https://user-images.githubusercontent.com/67531074/127200083-9dfceec5-fc5a-4156-80fc-4d8b90c44223.png)
+![Screenshot (475)](https://user-images.githubusercontent.com/67531074/127200091-a66d007a-867a-474f-b91e-758e31ebca82.png)
+![Screenshot (476)](https://user-images.githubusercontent.com/67531074/127200102-b2131659-9886-431c-86dc-2f7890955cb3.png)
 ![Screenshot (469)](https://user-images.githubusercontent.com/67531074/127200153-1fa5b6bd-44a5-401f-b763-79f319271ec2.png)
 
-![1 Dashboard](https://user-images.githubusercontent.com/67531074/127195387-9aad49b5-fba1-4752-90b3-2c1e029cd5ec.png)
-![2 view request for money exchange](https://user-images.githubusercontent.com/67531074/127195425-19918a9f-466d-4e3a-b558-b6685f51b974.png)
-![3 Add request for money exchange](https://user-images.githubusercontent.com/67531074/127195439-087fba2e-f2d3-45a2-be42-e7a82db62a23.png)
-![4 view request ](https://user-images.githubusercontent.com/67531074/127195502-3e7259b2-e62a-43ff-8fbf-0f2a22729a26.png)
-![5 view Details](https://user-images.githubusercontent.com/67531074/127195506-f58829f2-6aa4-4030-8804-eca3be6dd1c3.png)
-![6 Update Request](https://user-images.githubusercontent.com/67531074/127195515-66915f8f-2818-4b98-a4c1-922b81041b8e.png)
-![7 Dekete Request](https://user-images.githubusercontent.com/67531074/127195523-f84d248d-4ef4-47c0-a9ae-1af7ea0c2f12.png)
-![8 Delete Confirmation](https://user-images.githubusercontent.com/67531074/127195534-b342881a-66c8-4d59-8cba-b34044608425.png)
 ![17 Convert Currency](https://user-images.githubusercontent.com/67531074/127195580-16712f6e-0342-45b5-82f3-ce6c7a1cdbd8.png)
 ![9  Live Search view Client Account ](https://user-images.githubusercontent.com/67531074/127195539-ac0efbdf-a1b0-4c3c-bc47-8e587d87c7f8.png)
 ![10 View, Download Client data](https://user-images.githubusercontent.com/67531074/127195545-f2b66c6b-878e-4f8c-aed0-c2fa99135ddc.png)
