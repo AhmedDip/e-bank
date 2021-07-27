@@ -7,15 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-##About Project
+## About Project
 This is an E-Banking system where I have developed a full front-end and back-end system using Laravel framework and phpMyAdmin
 
-##Few Screen-Shots of the Project
+## Few Screen-Shots of the Project
 ![1 Dashboard](https://user-images.githubusercontent.com/67531074/127195387-9aad49b5-fba1-4752-90b3-2c1e029cd5ec.png)
 ![2 view request for money exchange](https://user-images.githubusercontent.com/67531074/127195425-19918a9f-466d-4e3a-b558-b6685f51b974.png)
 ![3 Add request for money exchange](https://user-images.githubusercontent.com/67531074/127195439-087fba2e-f2d3-45a2-be42-e7a82db62a23.png)
-![23 Confirmation](https://user-images.githubusercontent.com/67531074/127195491-86613fe3-d591-4210-b711-933b77072f80.png)
-![25 Latest Offerings](https://user-images.githubusercontent.com/67531074/127195497-33098499-4408-4ed3-94ad-76130fb4410f.png)
 ![4 view request ](https://user-images.githubusercontent.com/67531074/127195502-3e7259b2-e62a-43ff-8fbf-0f2a22729a26.png)
 ![5 view Details](https://user-images.githubusercontent.com/67531074/127195506-f58829f2-6aa4-4030-8804-eca3be6dd1c3.png)
 ![6 Update Request](https://user-images.githubusercontent.com/67531074/127195515-66915f8f-2818-4b98-a4c1-922b81041b8e.png)
@@ -35,3 +33,5 @@ This is an E-Banking system where I have developed a full front-end and back-end
 ![19  Add problem](https://user-images.githubusercontent.com/67531074/127195591-cd93a285-e3cc-48c0-9ff6-876489ff5a14.png)
 ![20  Edit Problem](https://user-images.githubusercontent.com/67531074/127195601-9c1cb899-10fd-4e6f-b652-e9c3ab4902dc.png)
 ![22 Delete Problem](https://user-images.githubusercontent.com/67531074/127195611-25fd7d88-a2ce-42e1-ab75-f034448a5ec5.png)
+![23 Confirmation](https://user-images.githubusercontent.com/67531074/127195491-86613fe3-d591-4210-b711-933b77072f80.png)
+![25 Latest Offerings](https://user-images.githubusercontent.com/67531074/127195497-33098499-4408-4ed3-94ad-76130fb4410f.png)
