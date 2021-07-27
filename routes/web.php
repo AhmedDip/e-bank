@@ -13,12 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', "loginController@index");
-Route::get('/login', "loginController@index")->name("login.login");
-Route::get('/login/logout', "loginController@logout")->name("logout");
-Route::post('/login', "loginController@loginVarify");
-
-
 Route::get('/login/registration', "loginController@signUP")->name("registration.register");
 Route::post('/login/registration', "registrationcontroller@registration");
 
