@@ -12,15 +12,15 @@ This is an E-Banking system where I have developed a full front-end and back-end
 
 ## Few Screen-Shots of the Project
 
-Login Module
-![Screenshot (470)](https://user-images.githubusercontent.com/67531074/127200075-4690283b-d2cc-4336-876d-4bb2796d6d94.png)
-Sign Up
-![Screenshot (471)](https://user-images.githubusercontent.com/67531074/127200083-9dfceec5-fc5a-4156-80fc-4d8b90c44223.png)
-Dashboard
-![Screenshot (475)](https://user-images.githubusercontent.com/67531074/127200091-a66d007a-867a-474f-b91e-758e31ebca82.png)
-![Screenshot (476)](https://user-images.githubusercontent.com/67531074/127200102-b2131659-9886-431c-86dc-2f7890955cb3.png)
 ![Screenshot (462)](https://user-images.githubusercontent.com/67531074/127200104-4ea7c113-8313-4897-89dc-8ab0745ee051.png)
 ![Screenshot (463)](https://user-images.githubusercontent.com/67531074/127200113-9d54cde6-4542-4550-aaca-a6f07e7a1e10.png)
+
+![Screenshot (470)](https://user-images.githubusercontent.com/67531074/127200075-4690283b-d2cc-4336-876d-4bb2796d6d94.png)
+
+![Screenshot (471)](https://user-images.githubusercontent.com/67531074/127200083-9dfceec5-fc5a-4156-80fc-4d8b90c44223.png)
+
+![Screenshot (475)](https://user-images.githubusercontent.com/67531074/127200091-a66d007a-867a-474f-b91e-758e31ebca82.png)
+![Screenshot (476)](https://user-images.githubusercontent.com/67531074/127200102-b2131659-9886-431c-86dc-2f7890955cb3.png)
 ![Screenshot (465)](https://user-images.githubusercontent.com/67531074/127200125-8d4a6113-8ed7-464d-a931-d88ff6589e8e.png)
 ![Screenshot (466)](https://user-images.githubusercontent.com/67531074/127200140-1d2c3a31-c901-47e3-9867-2867ca2bc3d2.png)
 ![Screenshot (467)](https://user-images.githubusercontent.com/67531074/127200147-97a51512-0b1f-4ede-bd4d-607bf3a2a0c3.png)
