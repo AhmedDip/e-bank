@@ -8,7 +8,7 @@
 </p>
 
 ## About Project
-This is an E-Banking system where I have developed a full front-end and back-end system using Laravel web application framework and phpMyAdmin
+This is an E-Banking system where I have developed a full front-end and back-end system using Laravel framework , MySQL and phpMyAdmin web application.
 
 ## Few Screen-Shots of the Project
 
