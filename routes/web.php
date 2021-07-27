@@ -31,10 +31,7 @@ Route::group(['middleware' => ['sessionCheck']], function () {
         Route::get('/dashbord', "loginController@dashbord")->name("user.dashbord");
         Route::get('/dashbord/userList', "userController@userList")->name("user.user_list");
         Route::get('/dashbord/userServices', "userController@userServices")->name("user.services");
-        Route::get('/dashbord/addUser', "userController@addUser")->name("user.add_user");
-        Route::get('/dashbord/deleteUser', "userController@deleteUser")->name("user.delete_user");
-        Route::get('/dashbord/editUser', "userController@editUser")->name("user.edit_user");
-        Route::get('/dashbord/blockUser', "userController@blockUser")->name("user.block_user");
+       
         Route::get('/dashbord/pendingUser', "userController@pendingUser")->name("user.pending_user");
         Route::get('/dashbord/unblockUser', "userController@unblockUser")->name("user.unblock_user");
         Route::get('/dashbord/clientReq', "userController@clientReq")->name("user.client_req");
