@@ -13,33 +13,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/login/registration', "loginController@signUP")->name("registration.register");
-Route::post('/login/registration', "registrationcontroller@registration");
-
-
-//-----------------------------Session Check-------------------------------------
-Route::group(['middleware' => ['sessionCheck']], function () {
-
-    //----------------------------Admin Check start here-----------------------------------------------
-    Route::group(['middleware' => ['adminCheck']], function () {
-        
-        Route::get('/dashbord/profile', "userController@profile")->name("user.profile");
-        Route::get('/dashbord/editProfile', "userController@editProfile")->name("user.edit_profile");
-        Route::get('/profile/editProfile', "userController@editProfile")->name("user.edit__profile");
-        Route::get('/dashbord/changePassword', "userController@changePassword")->name("user.changePassword");
-        Route::get('/dashbord/postNotices', "userController@postNotices")->name("user.post_notices");
-    });
-    //-------------------------Admin check Ends Here--------------------------------------
-});
-//---------------------------sessoion check Ends here-----------------------------------------
-
-
-
 
 //--------------------------Money Exchange Officer-------------------------
 
 Route::get('/login/meo', "LoginMeoController@index");
 Route::post('/login/meo', "LoginMeoController@verify");
+Route::get('/login/registration', "loginController@signUP")->name("registration.register");
+Route::post('/login/registration', "registrationcontroller@registration");
 Route::get('/logout/meo', "LogoutController@logout");
 
 
@@ -49,6 +29,13 @@ Route::get('/logout/meo', "LogoutController@logout");
 Route::group(['middleware'=>['meo']],function()
 {
     Route::get('/homeMeo', "HomeMeoController@index");
+    
+    Route::get('/dashbord/profile', "userController@profile")->name("user.profile");
+    Route::get('/dashbord/editProfile', "userController@editProfile")->name("user.edit_profile");
+    Route::get('/profile/editProfile', "userController@editProfile")->name("user.edit__profile");
+    Route::get('/dashbord/changePassword', "userController@changePassword")->name("user.changePassword");
+    
+    //Request
     Route::get('/requestView', "reqController@index");
     Route::get('/addRequest', "reqController@show");
     Route::post('/addRequest', "reqController@insert");
