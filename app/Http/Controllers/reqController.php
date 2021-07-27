@@ -49,6 +49,7 @@ class reqController extends Controller
 
     }
 
+    //edit
     function editview()
     {
         $req = req::all();
@@ -56,6 +57,8 @@ class reqController extends Controller
             ->with ('req',$req);
 
     }
+    
+    
 
     function edit ($id)
     {
@@ -63,6 +66,7 @@ class reqController extends Controller
         return view ('req.edit')
                 ->with ('req',$req);
     }
+    
 
     function update(Request $req, $id)
     {
@@ -92,6 +96,7 @@ class reqController extends Controller
         return redirect ('/requestView');
     }
 
+     //details
     function detailsView()
     {
         $req = req::all();
@@ -107,6 +112,7 @@ class reqController extends Controller
                -> with ('req',$req);
     }
 
+    //delete
     function deleteview()
     {
         $req = req::all();
@@ -115,6 +121,7 @@ class reqController extends Controller
     }
 
 
+    
     function delete($id)
     {
         $req = req::find ($id);
