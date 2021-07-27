@@ -86,6 +86,7 @@
 
     </div>
     <div class="col-md-5" align="right">
+    //Download pdf button
      <a href="{{ url('/transaction_pdf/pdf') }}" class="btn btn-warning">Download PDF</a>
      
     </div>
