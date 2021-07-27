@@ -8,7 +8,7 @@
 </p>
 
 ## About Project
-This is an E-Banking system where I have developed a full front-end and back-end system using Laravel framework and phpMyAdmin
+This is an E-Banking system where I have developed a full front-end and back-end system using Laravel web application framework and phpMyAdmin
 
 ## Few Screen-Shots of the Project
 
@@ -22,6 +22,7 @@ This is an E-Banking system where I have developed a full front-end and back-end
 ![Screenshot (475)](https://user-images.githubusercontent.com/67531074/127200091-a66d007a-867a-474f-b91e-758e31ebca82.png)
 ![Screenshot (476)](https://user-images.githubusercontent.com/67531074/127200102-b2131659-9886-431c-86dc-2f7890955cb3.png)
 ![Screenshot (469)](https://user-images.githubusercontent.com/67531074/127200153-1fa5b6bd-44a5-401f-b763-79f319271ec2.png)
+![Screenshot (470)](https://user-images.githubusercontent.com/67531074/127200075-4690283b-d2cc-4336-876d-4bb2796d6d94.png)
 
 ![17 Convert Currency](https://user-images.githubusercontent.com/67531074/127195580-16712f6e-0342-45b5-82f3-ce6c7a1cdbd8.png)
 ![9  Live Search view Client Account ](https://user-images.githubusercontent.com/67531074/127195539-ac0efbdf-a1b0-4c3c-bc47-8e587d87c7f8.png)
