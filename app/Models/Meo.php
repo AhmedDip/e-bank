@@ -9,6 +9,6 @@ class Meo extends Model
 {
     use HasFactory;
       protected $table = 'login';
-    //protected $primaryKey = "id";
+    protected $primaryKey = "id";
     public $timestamps = false;
 }
