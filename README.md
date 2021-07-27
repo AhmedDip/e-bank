@@ -46,8 +46,6 @@ This is an E-Banking system where I have developed a full front-end and back-end
 
 ![13 Transaction Pdf](https://user-images.githubusercontent.com/67531074/127195561-b559b2b9-7d2f-4840-9928-aecf0f336061.png)
 
-![14 Contact with Client](https://user-images.githubusercontent.com/67531074/127195566-a51eb223-07f4-405f-a84f-146790bf9f87.png)
-
 ![15 Contact with Manager](https://user-images.githubusercontent.com/67531074/127195571-ffa73130-8f38-4f2c-8688-dd13e35322f9.png)
 
 ![16 Latest Market Rates](https://user-images.githubusercontent.com/67531074/127195577-916e04ca-a0fb-48df-939e-c8479c86f6ff.png)
