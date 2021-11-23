@@ -37,14 +37,14 @@ This is an E-Banking system where I have developed a full front-end and back-end
 ![17 Convert Currency](https://user-images.githubusercontent.com/67531074/127195580-16712f6e-0342-45b5-82f3-ce6c7a1cdbd8.png)
 
 ![9  Live Search view Client Account ](https://user-images.githubusercontent.com/67531074/127195539-ac0efbdf-a1b0-4c3c-bc47-8e587d87c7f8.png)
-
+![10 View, Download Client data](https://user-images.githubusercontent.com/67531074/127195545-f2b66c6b-878e-4f8c-aed0-c2fa99135ddc.png)
 
 
 ![11  Client Pdf](https://user-images.githubusercontent.com/67531074/127195550-4891e240-8b02-4dbc-971d-be4aa76a2adf.png)
 
 ![12 Transaction Details](https://user-images.githubusercontent.com/67531074/127195556-6811ba71-96af-47b3-9ed2-7c5ed3613e7e.png)
 
-![13 Transaction Pdf](https://user-images.githubusercontent.com/67531074/127195561-b559b2b9-7d2f-4840-9928-aecf0f336061.png)
+
 
 ![15 Contact with Manager](https://user-images.githubusercontent.com/67531074/127195571-ffa73130-8f38-4f2c-8688-dd13e35322f9.png)
 
