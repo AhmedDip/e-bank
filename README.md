@@ -38,7 +38,7 @@ This is an E-Banking system where I have developed a full front-end and back-end
 
 ![9  Live Search view Client Account ](https://user-images.githubusercontent.com/67531074/127195539-ac0efbdf-a1b0-4c3c-bc47-8e587d87c7f8.png)
 
-![10 View, Download Client data](https://user-images.githubusercontent.com/67531074/127195545-f2b66c6b-878e-4f8c-aed0-c2fa99135ddc.png)
+
 
 ![11  Client Pdf](https://user-images.githubusercontent.com/67531074/127195550-4891e240-8b02-4dbc-971d-be4aa76a2adf.png)
 
